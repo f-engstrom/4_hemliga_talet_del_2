@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{23F3DA03-1A14-4C07-ADB6-0B37DE1C7C8E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="4_hemliga_talet_del_2/Program.cs">
+    <Files>
+      <File FileName="4_hemliga_talet_del_2/Program.cs" Line="56" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="4_hemliga_talet_del_2" expanded="True">
+            <Node name="4_hemliga_talet_del_2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.4__hemliga__talet__del__2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
